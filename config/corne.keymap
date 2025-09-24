@@ -50,7 +50,7 @@
 
 
             bindings = <
-&kp TAB    &kp LS(NUMBER_1)    &kp LS(2)       &kp LA(NUMBER_3) &kp LA(NUMBER_6) &kp LA(NUMBER_5) &kp LS(CIRC)       &kp LS(NUMBER_9)       &kp LS(NUMBER_0)       &kp EQUAL    &kp LS(LPAR)      &kp BSPC
+&kp TAB    &kp LS(NUMBER_1)    &kp LS(NUMBER_2)       &kp LA(NUMBER_3) &kp LA(NUMBER_6) &kp LA(NUMBER_5) &kp LS(CIRC)       &kp LS(NUMBER_9)       &kp LS(NUMBER_0)       &kp EQUAL    &kp LS(LPAR)      &kp BSPC
 &kp LCTRL  &trans               &kp LA(NUMBER_2) &trans           &trans           &trans            &kp MINUS          &kp LA(LC(NUMBER_7))  &kp LA(RC(NUMBER_0))  &kp SLASH    &kp LA(RC(GRAVE)) &kp QUOTE
 &kp LSHFT  &trans               &trans           &trans           &trans           &trans            &kp LS(SLASH)      &kp LA(LC(NUMBER_8))  &kp LA(RC(NUMBER_9))  &kp LS(EQUAL)&kp LA(RC(GRAVE)) &kp LS(TILDE)
                                         &kp LGUI  &trans    &kp SPACE      &kp RET       &trans                &kp RALT
