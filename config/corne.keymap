@@ -50,7 +50,7 @@
 
             bindings = <
 &kp TAB    &kp LS(EXCL)  &kp AT  &kp LS(POUND)  &kp LS(AMPS)  &kp LS(PRCNT)    &kp CARET     &kp LS(AMPS)   &kp LS(RPAR)  &kp LS(EQUAL)  &kp LS(LPAR)  &kp BSPC
-&kp LCTRL  &trans        &trans  &trans         &trans        &trans           &kp MINUS     &kp LS(EQUAL)  &kp LBKT      &kp RBKT       &kp BSLH      &kp SQT
+&kp LCTRL  &trans        &trans  &trans         &trans        &trans           &kp MINUS     &kp LS(EQUAL)  &kp U005B     &kp U005B       &kp BSLH      &kp SQT
 &kp LSHFT  &trans        &trans  &trans         &trans        &trans           &kp QUESTION  &kp PLUS       &kp LBRC      &kp RBRC       &kp PIPE      &kp TILDE
                                  &kp LGUI       &trans        &kp SPACE        &kp RET       &trans         &kp RALT
             >;
