@@ -49,9 +49,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp LS(NUMBER_1)  &kp LS(NUMBER_2)      &kp LS(NUMBER_3)  &kp LS(NUMBER_6)  &kp LA(N5)    &kp LS(RIGHT_BRACKET)  &kp LS(N8)      &kp LS(N9)            &kp LS(N0)  &trans                 &kp BSPC
-&kp LCTRL  &trans            &kp LA(LC(NUMBER_2))  &trans            &trans            &trans        &kp SLASH              &kp LA(LC(N8))  &kp LA(RC(NUMBER_9))  &kp LS(N7)  &kp LA(RC(MINUS))      &kp HASH
-&kp LSHFT  &trans            &trans                &trans            &trans            &trans        &kp LS(MINUS)          &kp LA(LC(N7))  &kp LA(RC(N0))        &kp MINUS   &kp LA(RC(BACKSLASH))  &kp LA(LC(RIGHT_BRACKET))
+&kp TAB    &kp LS(NUMBER_1)  &kp LS(NUMBER_2)      &kp LS(NUMBER_3)  &kp LS(NUMBER_6)  &kp LA(NUMBER_5)    &kp LS(RIGHT_BRACKET)  &kp LS(NUMBER_8)      &kp LS(NUMBER_9)            &kp LS(NUMBER_0)  &trans                 &kp BSPC
+&kp LCTRL  &trans            &kp LA(LC(NUMBER_2))  &trans            &trans            &trans        &kp SLASH              &kp LA(LC(NUMBER_8))  &kp LA(RC(NUMBER_9))  &kp LS(NUMBER_7)  &kp LA(RC(MINUS))      &kp HASH
+&kp LSHFT  &trans            &trans                &trans            &trans            &trans        &kp LS(MINUS)          &kp LA(LC(NUMBER_7))  &kp LA(RC(NUMBER_0))        &kp MINUS   &kp LA(RC(BACKSLASH))  &kp LA(LC(RIGHT_BRACKET))
                                                    &kp LGUI          &trans            &kp SPACE     &kp RET                &trans          &kp RALT
             >;
         };
