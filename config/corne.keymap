@@ -51,7 +51,7 @@
             bindings = <
 &kp LA(TAB)     &kp LS(NUMBER_1)  &kp LS(NUMBER_2)      &kp LS(NUMBER_3)  &kp LS(NUMBER_6)  &kp LA(NUMBER_5)    &kp LS(RIGHT_BRACKET)  &kp LS(NUMBER_8)      &kp LS(NUMBER_9)      &kp LS(NUMBER_0)  &kp DEL            &kp BSPC
 &kp LEFT_SHIFT  &trans            &kp LA(LC(NUMBER_2))  &trans            &trans            &trans              &kp SLASH              &kp LA(LC(NUMBER_8))  &kp LA(RC(NUMBER_9))  &kp LS(NUMBER_7)  &kp LA(RC(MINUS))  &kp SINGLE_QUOTE
-&kp LCTRL       &trans            &caps_word            &trans            &trans            &trans              &kp LS(MINUS)          &kp LA(LC(NUMBER_7))  &kp LA(RC(NUMBER_0))  &kp MINUS         &kp PIPE           &kp LA(LC(RIGHT_BRACKET))
+&kp LCTRL       &kp BACKSPACE     &caps_word            &trans            &trans            &trans              &kp LS(MINUS)          &kp LA(LC(NUMBER_7))  &kp LA(RC(NUMBER_0))  &kp MINUS         &kp PIPE           &kp LA(LC(RIGHT_BRACKET))
                                                         &kp LGUI          &trans            &kp SPACE           &kp RET                &trans                &kp BACKSPACE
             >;
         };
